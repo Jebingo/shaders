@@ -1,0 +1,4 @@
+{
+    "glsl-canvas.refreshOnChange": false,
+    "editor.inlayHints.enabled": "off"
+}
